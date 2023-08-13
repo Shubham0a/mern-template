@@ -1,0 +1,26 @@
+*************** initial **************
+=> create main project folder "master"
+=> cd master
+=> npm init
+=> npm i express mongoose dotenv cloudinary cookie-parser nodemailer jsonwebtoken
+*****************************
+
+............... for backend ....................
+=> create main backend folder "backend"
+=> cd backend
+=> touch server.js
+=> touch app.js
+
+................. for frontend ...................
+=> create main frontend folder "frontend"
+=> cd frontend
+=> npx create-react-app .
+=> npm i react-router-dom three axios overlay-navbar @reduxjs/toolkit
+https://mui.com/material-ui/
+=> npm install @mui/material @emotion/react @emotion/styled
+=> npm i @mui/icons-material react-icons
+=> npm i react-redux
+=> npm start
+=> add ` "proxy": "http://localhost:4000" ` in package.json
+
+
